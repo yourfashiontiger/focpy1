@@ -28,6 +28,8 @@ import requests
 import sys
 from datetime import datetime
 import webbrowser
+user_id = input("enter userid: ").strip()
+Token = input("enter bot token: ".strip()
 total=0
 hits=0
 bad_gm=0
